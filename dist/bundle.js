@@ -1,0 +1,1 @@
+(()=>{"use strict";alert("Olá Codesigner"),alert,(new class{createUser(){console.log("created")}}).createUser()})();
